@@ -1,0 +1,85 @@
+Bolesławiec Wsch., B. C., Dąbrowa Bolesławiecka, Golnice, Trzebień, Karczmarka, Borówki, Grodzanowiec, Gromadka, Modła Dworzec Mały
+Nowa Wieś Grodziska, Czaple Kamienne, Rożnowiec, Grodziec Zamczysko, Raciborowice Górne, Raciborowice Dolne, Iwiny, Warta Bolesławiecka, Warta Złotnicka, Kruszynek, Godnów, Bolesławiec Piastów, Bolesławiec Wsch.
+Domaniów, Skrzypnik, Wyszkowice
+Dzierżoniów, Bielawa Wschodnia, Bielawa Zachodnia
+Dzierżoniów, Pieszyce Płn. (Dolne), Pieszyce Środkowe, Pieszce Stadion, Pieszyce Górne, Bielawa Zachodnia, Kamieniczki, Bielawa Nowa, Ostroszowice, Grodziszcze, Jemna, Srebrna Góra Miasto, Srebrna Góra Twierdza, Nowa Wieś Kłodzka, Wolibórz, Dzikowiec Kł., Słupiec, Słupiec Dolny, Ścinawka Średnia M., Wiadukty
+Grabowo Wielkie, Bukowice Trzebnickie, Krośnice, Wierzchowice, Milicz, Rakoniewice Milickie, Cieszków
+Gryfów Śląski, Oleszna Podgórska, Lubomierz, Pławna Górna, Pławna Średnia, Pławna Dolna, Mojesz, Lwówek Śląski
+Gryfów Śląski, Proszówka, Brzeziniec, Mirsk, Mroczkowice, Krobica, Świeradów Zdrój, Świeradów Nadleśni.
+Głęboka Śl., Muchowiec, Jegłowa, Krzywina, Przeworno, Rożnów
+Głogów, Odrzycko, Serby Zachód, Serby Wschód, Wilków Głogowski, Niechlów, Naratów, Strumienna, Sławięcice Górowskie, Góra Śląska, Borszyn Mały, Borszyn Wielki
+Głogów, Żukowice, Nielubia, Kłobuczyn, Gaworzyce
+Głogów, Odrzycko, Grodziec Mały, Głogówko
+Głogów, Odrzycko, Grodziec Mały, Bogomice, Kamionna, Chociemyśl, Kotla
+Głogów, Głogów Huta, Wróblin Głogowski, Brzeg Głogowski, Czerna
+Góra Śląska, Sławęcice, Glinka, Witoszyce, Laskowa
+Henryków Mały, Stary Henryków, Targowica, Ciepłowody
+Jawor, Siekierzyce, Czernica, Borów, Roztoka
+Jaworzyna Śląska, Stanowice, Strzegom Międzyrz., Strzegom, Goczałków, Rogoźnica, Jawor, Stary Jawor, Brachów, Przybyłowice, Nowa Wieś Legnicka, Legnica Piekary, Legnica
+Jaworzyna Śląska, Bolesławice Świdnickie, Zawiszów, Świdnica Miasto, Świdnica Kraszowice, Krzyżowa, Mościsko Dzierżon., Dzierżoniów Dolny, Dzierżoniów Śląski, Piława Dolna, Piława Górna, Ząbkowice Śląskie, Kamieniec Ząbkowicki, Doboszowice, Paczków, Mosty i wiadukty
+Jelcz Miłoszyce, Jelcz Laskowice, Kopalina, Minkowice Oławskie, Biskupice Oławskie
+Marciszów, Marciszów Górny, Krużyn, Kamienna Góra, Pisarzowice, Szarocin, Leszczyniec, Ogorzelec, Kowary Górne, Kowary Średnie, Kowary Zdrój, Kowary Ścięgny, Kowary, Kostrzyca, Mysłakowice, Łomnica, Łomnica Dolna, Łomnica Średnia, Jelenia Góra, Tunel, Wiadukty, Na trasie
+Jelenia Góra, Jelenia Góra Zachodnia, Jel. Góra Celwiskoza, Jel. Góra Cieplice, Jel. Góra Orle, Jel. Góra Sobieszów, Piechowice Dolne, Piechowice, Górzyniec, Szklarska Poręba Dolna, Szklarska Poręba Śred., Szklarska Poręba Gór., Szklarska Poręba Huta, Czerwony Potok, Jakuszyce, Nowy Świat, (Harrachov), Obiekty inżynierskie, Na trasie
+Jelenia Góra, Wojanów, Trzcińsko, Janowice Wielkie, Ciechanowice, Marciszów, Marciszów Górny, Sędzisław, Witków Śląski, Boguszów Gorce Zach., Boguszów Gorce, Boguszów Gorce Wsch., Szybowice Wałbrzyskie, Wałbrzych Główny, Tunele, Mosty i wiadukty, Na trasie
+Jelenia Góra, Jeżów Sudecki, Siedlęcin, Pilchowice Zapora, Pilchowice Nielestno, Pilchowice Niel. Tow., Wleń, Marczów, Dębowy Gaj, Lwówek Śląski, Rakoniewice Wielkie, RadłówkaNiwniceGościszówGościszów DolnyNowogrodziecOłdrzychówZebrzydowa WieśZebrzydowa, Niwnice, Gościszów, Gościszów Dolny, Nowogrodziec, Ołdrzychów, Zebrzydowa Wieś, Zebrzydowa
+Jelenia Góra, Dębowa Góra, Rybnica, Stara Kamienica, Kwieciszowice, Rębiszów, Młyńsko, Gyfów Śląski, Ubocze, Olszyna Lubańska, Lubań Śląski, Zaręba, Batowice Lubańskie, Mikułowa, Studniska, Jerzmaniki, Krysin, Zgorzelec, Obiekty inżynierskie
+Jerzmanice Zdrój, Pielgrzymka, Czaple, Nowa Wieś Grodziska, Skorzynice, Płakowice, Lwówek Śląski
+Mapa linii, Jugowice, Sędzimierz, Walim Dolny, Walim
+Mapka linii, Kamieniec Ząbkowicki, Byczeń, Sosnowa, Płonica, Złoty Stok, Budowle na trasie
+Mapa linii, Kamienna Góra, Czadrówek, Czadrów, Krzeszów, Jawiszów, Chełmsko Śląskie, Uniemyśl, Okrzeszyn, Obiekty inżynieryjne, Na trasie
+Mapa linii, Kłodzko GłówneKłodzko MiastoPO Kłodzko NoweKłodzko KsiążekKłodzko ZagórzeStary WielisławPolanica ZdrójSzczytnaDuszniki ZdrójKulin KłodzkiLewin KłodzkiKudowa ZdrójKudowa SłoneObiekty inżynierskie, Kłodzko MiastoPO Kłodzko NoweKłodzko KsiążekKłodzko ZagórzeStary WielisławPolanica ZdrójSzczytnaDuszniki ZdrójKulin KłodzkiLewin KłodzkiKudowa ZdrójKudowa SłoneObiekty inżynierskie, PO Kłodzko Nowe, Kłodzko KsiążekKłodzko ZagórzeStary WielisławPolanica ZdrójSzczytnaDuszniki ZdrójKulin KłodzkiLewin KłodzkiKudowa ZdrójKudowa SłoneObiekty inżynierskie, Kłodzko ZagórzeStary WielisławPolanica ZdrójSzczytnaDuszniki ZdrójKulin KłodzkiLewin KłodzkiKudowa ZdrójKudowa SłoneObiekty inżynierskie, Stary WielisławPolanica ZdrójSzczytnaDuszniki ZdrójKulin KłodzkiLewin KłodzkiKudowa ZdrójKudowa SłoneObiekty inżynierskie, Polanica Zdrój, Szczytna, Duszniki Zdrój, Kulin Kłodzki, Lewin Kłodzki, Kudowa Zdrój, Kudowa Słone, Obiekty inżynierskie
+Krosnowice Kłodzkie, Żelazno, Ołdrzychowice Kłodzkie, Trzebieszowice, Radochów, Lądek Zdrój, Lądek Stojków, Stronie Śląskie
+Krzelów, Wyszęcice, Gryżyce, Rajczyn, Jemielno, Bieliszów, Chobienia, Lubów, Irządze, Luboszyce, Bełcz Wielki, Osetno, Rogów Górowski, Stara Góra, Góra
+Kobierzyce, Szczepankowice Wrocł., Budziszów, Pustków Wilczkowski, Wilczkowice, Jordanów Śląski, Trzebnik, Łagiewniki Dzierżon., Przystronie Śl., Wilków Wielki, Niemcza, Przerzeczyn Zdrój, Piława Górna
+Legnica, Pawłowice Małe, Wilczyce, Kozów, Radomil, Złotoryja, Jerzmanice Zdrój, Nowy Kościół, Sędziszowa, Świerzawa, Stara Kraśnica, Wojcieszów Dolny, Wojcieszów Górny, Kaczorów, Płonina, Marciszów
+Legnica, Rzeszotary, Raszówka, Gorzelin, Chróstnik, Lubin Górniczy, Koźlice, Rynarcice, Rudna Miasto, Rudna Gwizdanów
+Legnica, Legnica Północna, Pątnów Legnicki, Bieniowice, Szczytniki nad Kaczawą, Prochowice Śląskie, Wielowieś Legnicka, Parszowice, Ścinawa, Ścinawa Odra, Iwno, Krzelów, Wińsko, Piskorzyna, Drozdowice Wielkie, Wąsosz, Cieszkowice, Wieża
+Lubań Śląski, Księginki, Kościelnik, Kościelniki Średnie, Kościelniki Dolne, Kościelniki Górne, Leśna
+Lubań Śląski, Gierałtów, Gierałtów Wykroty, Węgliniec
+Lubin Górniczy, Obora Górna, Obora Średnia, Szklary Górne, Szklary Dolne, Brunów Lub., Trzebnice Lub., Chocianowiec, Kątno, Chocianów
+Rudna Gwizdanów, Rudna Przystanek, Połuch, Barszów, Komorniki, Polkowice, Lubin
+Łagiewniki, Kondratowice
+Malczyce, Lasowice Wrocławskie, Ruja, Tyniec Legnicki, Brennik, Biernatki, Wądroże Wielkie, Wądroże Małe, Mierczyce, Snowidza Dolna, Snowidza Górna, Grzegorzów Jaworski, Jawor
+Malczyce, Proszków Śląski, Bukówek, Ujazd Górny, Łagiewniki Średzkie, Piekary Udanin, Jaroszów, Strzegom
+Malczyce, Kawice, Rogów Legnicki, Lubiąż, Rataje, Krzydlina, Mojęcice, Wołów, Obiekty inżynierskie
+Mikułowa, Las, Sulików, Wilka, Wilka 2, Zawidów, Wilka 2, Wilka 1, Radomierzyce, Ręczyn, Krzewina Zgorzelecka, Bratków Zgorzelecki, Trzcieniec Zgorzelecki, Turoszów, Turoszów Kopalnia, Bogatynia
+Miłkowice, Goliszów, Rokitki, Modła, Wierzbowa Śląska, Studzianka, Leszno Górne
+Mirsk, Wolimierz, Pobiedna
+Mapka linii, Mysłakowice, Mysłakowice Orzeł, Miłków, Karpacz
+Oleśnica, Cieśle, Poniatowice, Jemielna Oleśnicka, Stradomia, Syców
+Oleśnica, Solniki Wielkie, Bierutów
+Oława, Jaczkowice Oł., Godzinowice, Gaj Oławski, Marszowice, Polwica, Domaniów, Kuchary, Borek Strzeliński, Boreczek
+Przeworno, Sarby, Jagielno
+Rokitki, Duninów, Chocianów, Jakubowo Lubińskie, Wilkocin, Przemków Miasto, Przemków Odlewnia
+Ruszów, Ruszów Szklarnia
+Mapka linii, Sędzisław, PO Krużyn, Kamienna Góra, Błażkowa, Lubawka, Obiekty inżynierskie, Na trasie
+Mapa linii, Ząbkowice Śląskie, Stoszowice Dolne, Stoszowice Górne, BudzówSrebrna Góra Miasto, Srebrna Góra Miasto
+Strzegom, Strzegom Miasto, Grabina Śląska, Roztoka, Kłaczyna, Bolków, Stare Rochowice, Poręba  Górska, Domanów Jaworski, Marciszów, Inne obiekty
+Strzelin, Głęboka Śl., Wiązów, Miechowice Oławskie, Częstocice
+Strzelin, Karszów, Kondratowice, Księginice Wielkie, Kowalskie Żelezowice, Dobrzenice Północne, Dobrzenice, Dobrzenice Południowe, Ciepłowody, Kobyla Głowa, Tomice, Szklary Ząbkowickie, Zwrócona, Ząbkowice Śląskie M.
+Syców, Ślizów, Działdowa Kłoda, Radzowice, Gołębice
+Mapa linii, Wałbrzych Szczawienko, Szczawno Zdrój, Biały Kamień, Boguszów Gorce Wsch., Boguszów Gorce Tow., Unisław Śląski, Mieroszów, Obiekty inżynierskie, Widoki z trasy
+Mapa linii, Ścinawka Średnia M., Ścinawka Radkowska, Ratno Dolne, Ratno Górne, Radków, Budowle inżynierskie, Widoki z trasy
+Mapka linii, Ścinawka Średnia, Tłumaczów, Tłum. Urząd Celny, Na trasie
+Środa Śląska, Środa Śląska Zameczek, Środa Śląska Miejska, Środa Śląska Rynek
+Świdnica Przedmieście, Świdnica Kraszowice, Bystrzyca Dolna, Bystrzyca Górna, Lubachów, Zagórze Śląskie, Jugowice, Jedlina Dolna, Jedlina Zdrój, Budowle inżynierskie, Zdjęcia z trasy
+Wałbrzych Główny, Jedlina Górna, PO Jedlina, Jedlina Zdrój, Głuszyca, Głuszyca Górna, Bartnica, Świerki Dolne, Ludwikowice Kłodzkie, Zdrojowisko, Nowa Ruda Przedmieś., Nowa Ruda, Ścinawka Średnia, Gorzuchów Kłodzki, Bierkowice, Kłodzko Główne, Tunele, Mosty i wiadukty, Na trasie
+Węgliniec, Zgorzelec Nadleśnictwo, Czerwona Woda Płn., Czerwona Woda
+Węgliniec, Stary Węgliniec, Jagodzin, Ruszów, Okrąglica
+Węgliniec, Szklenice, Bielawa Dolna
+Węgliniec, Pieńsk, Lasów, Jędrzychowice, Zgorzelec Miasto, Zgorzelec, Obiekty inżynierskie
+Wrocław Główny, Wrocław Brochów Os., Wrocław Brochów A, Święta Katarzyna, Zębice Wrocławskie, Lizawice, Oława
+Wrocław Główny, Wrocław Grabiszyn, Wrocław Muchobór, Wrocław Kuźniki, Wrocław Pracze, Brzezinka Średzka, Czerna Mała, Księginice, Brzeg Dolny, Łososiowice, Wołów, Orzeszków, Małowice Wołowskie, Ścinawa Odra, Ścinawa, Chełmek Wołowski, Rudna Miasto, Rudna Gwizdanów, Krzydłowice, Grębocice, Krzepów, Głogów
+Wrocław Główny, Wrocław Grabiszyn, Wrocław Muchobór, Wrocław Nowy Dwór, Wrocław Żerniki, Wrocław Leśnica, Mrozów, Miękinia, Przedmoście Święte, Środa Śląska, Malczyce, Szczedrzykowice, Jaśkowice Legnickie, Wielkie Piekary, Legnica, Jezierzany, Miłkowice, Chojnów, Osetnica, Okmiany, Tomaszów Bolesław., Bolesławiec, Zebrzydowa, Zagajnik, Węgliniec, Obiekty inżynierskie
+Wrocław Główny, Smardzów Wrocławski, Żórawina, Węgry, Boreczek, Warkocz, Strzelin, Biały Kościół, Henryków, Ziębice, Starczów, Kamieniec Ząbkowicki, Suszka, Bardo Przyłęk, Bardo Śląskie, Ławica, Kłodzko Główne, Kłodzko Miasto, Kłodzko Nowe, Krosnowice Kłodzkie, Krosnowice Górne, Gorzanów, Bystrzyca Kłodzka, Bystrzyca Kłodzka Prz., Długopole Zdrój, Domaszków, Roztoki Bystrzyckie, Międzylesie, Tunele i inne obiekty, Widoki z trasy
+Wrocław Główny, Wrocław Grabiszyn, Wrocław Mikołajów, Wrocław Łąki, Wrocław Nadodrze, Wrocław Sołtysowice, Wrocław Psie Pole, Długołęka, Borowa Oleśnicka, Łukanów, Oleśnica, Oleśnica Rataje, Dąbrowa Oleśnicka, Dobroszyce, Grabowo Wielkie, Twardogóra Sycowska, Bukowina Sycowska, Międzybórz Sycowski
+Wrocław Główny, Wrocław Grabiszyn, Wrocław Mikołajów, Wrocław Popowice, Jeżyny, Wrocław Osobowice, Wrocław Świniary, Szewce, Pęgów, Oborniki Śląskie, Osola, Skokowa, Żmigród, Garbce, Korzeńsko
+Wrocław Główny, Wrocław Tarnogaj, Wrocław Wojszyce, Wrocław Partynice, Wrocław Klecina, Bielany Wrocławskie, Domasław, Kobierzyce, Wierzbice Wrocławskie, Pustków Żurowski, Olbrachtowice, Rogów Sobócki, Sobótka, Sobótka Zachodnia, Strzelce Świdnickie, Szczepanów, Marcinowice Świdnickie, Pszenno, Świdnica Przedmieście, Świdnica Miasto, Obiekty inżynierskie, Na trasie
+Mapa linii, Wrocław Nadodrze, Wrocław Sołtysowice, Wrocław Psie Pole, Wrocław Zakrzów, Wrocław Pawłowice, Pasikurowice, Siedlec Trzebnicki, Brochocin Trzebnicki, Trzebnica, Widoki z trasy, Budowle inyżierskie
+Wrocław Główny, Wrocław Grabiszyn, Wrocław Zachodni, Smolec, Sadowice Wrocławskie, Kąty Wrocławskie, Mietków, Imbramowice, Żarów, Jaworzyna Śląska, Świebodzice Ciernie, Świebodzice, Wałbrzych Szczawienko, Wałbrzych Miasto, Wałbrzych Fabryczny, Wałbrzych Główny, Mosty i wiadukty, Na trasie
+Wrocław Główny, Wrocław Brochów Os., Wrocław Brochów A, Siechnice, Zakrzów Kotowice, Czernica Wrocławska, Jelcz Miłoszyce
+Mapa linii, Wrocław Nadodrze, Wrocław Sołtysowice, Wrocław Kowale, Wrocław Swojczyce, Wrocław Wojnów, Dobrzykowice Wrocł., Nadolice Wielkie, Chrząstawa Wielka, Jelcz Miłoszyce, Obiekty inżynierskie
+Zebrzydowa, Tomisław, Osiecznica Kliczków, Przejęsław, Ławszowa, Luboszów, Luboszów, Świętoszów, Łozy
+Złotoryja, Nowa Wieś Złotoryjska, Zagrodno, Brochocin, Budziwojów, Chojnów, Biała Złotoryjska, Zamienice, Rokitki
+Żmigród, Barkówko, Barkowo, Białawy Wielkie, Białawy, Kamień Górowski, Płoski, Wąsosz
+
